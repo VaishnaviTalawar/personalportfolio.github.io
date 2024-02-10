@@ -1,0 +1,62 @@
+.main-section {
+	width: 100%;
+	float: left;
+	padding: 110px 0px 110px 0px;
+}
+.width-100 {
+	width: 100%;
+	float: left;
+}
+.mt-20 {
+	margin-top: 20px;
+}
+.heading-text {
+	width: 100%;
+	float: left;
+	font-size: 35px;
+	text-align: center;
+	margin-bottom: 50px;
+	color:rgb(120, 77, 161);
+    text-align: left;
+    margin-top: -90px;
+}
+.about-img {
+	width: 400px;
+	padding: 40px 50px;
+	margin-top: -5px;
+    float: left;
+    height: 350px;
+	padding-left: 70px;
+}
+.about-us {
+	width: 60%;
+	float: right;
+	padding: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+    
+}
+.about-us p {
+	font-size: 16px;
+	margin-top: 15px;
+	line-height: 27px;
+}
+table {
+	width: 100%;
+}
+table th
+{
+    font-size: 16px;
+	text-align: left;
+	padding: 5px 0px;
+    color: rgb(108, 44, 167);
+
+}
+table td {
+	font-size: 16px;
+	text-align: left;
+	padding: 5px 0px;
+    
+}
+
+
